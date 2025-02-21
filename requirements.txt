@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2-binary
+pandas
+openpyxl
+requests
+xlrd
+pytest
+python-dotenv
+apscheduler
